@@ -1,10 +1,14 @@
-# Awesome Cachet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Cachet[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > Carefully curated list of awesome Cachet resources and shiny things.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ### Contents
 
 - [Official Links](#official-links)
 - [Community](#community)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Official Links
 
