@@ -17,3 +17,4 @@
 ## Community
 
 - [Issues & Feedback](https://github.com/CachetHQ/Cachet/issues) - Post features, ideas and feedback.
+- [Slack](http://cachethq-slack.herokuapp.com/) - Find support through our official Slack community.
