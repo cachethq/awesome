@@ -12,6 +12,8 @@
 - **Cachet Docs** - [docs.cachethq.io](https://docs.cachethq.io)
 - **Repository** - [github.com/CachetHQ/Cachet](https://github.com/CachetHQ/Cachet)
 
+---
+
 ## Community
 
 - [Issues & Feedback](https://github.com/CachetHQ/Cachet/issues) - Post features, ideas and feedback.
